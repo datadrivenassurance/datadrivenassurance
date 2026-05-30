@@ -21,7 +21,7 @@
   </a>
      &nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@TWÓJ-KANAŁ">
-    <img src="https://img.shields.io/badge/YouTube-Audit%20%26%20Bytes-FF0000?logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-DataDrivenAssurance-FF0000?logo=youtube&logoColor=white" />
   </a>
 </p>
 
