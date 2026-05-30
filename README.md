@@ -5,17 +5,23 @@
      ====================================================== -->
 <h1 align="center">Hi, I'm Lidia 👋</h1>
 <p align="center">
-  <em>Internal Auditor · CIA · Public Sector · Auditor Who Codes</em>
+  <em>Internal Auditor · Public Sector · Auditor Who Codes</em>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/lidia-opiola">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
+     &nbsp;&nbsp;&nbsp;
   <a href="https://datadrivenassurance.substack.com">
     <img src="https://img.shields.io/badge/Substack-Audit%20%26%20Bytes-orange?logo=substack&logoColor=white" />
   </a>
+     &nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/lidiaopiola">
     <img src="https://img.shields.io/badge/Medium-Audit%20%26%20Bytes-black?logo=medium&logoColor=white" />
+  </a>
+     &nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@TWÓJ-KANAŁ">
+    <img src="https://img.shields.io/badge/YouTube-Audit%20%26%20Bytes-FF0000?logo=youtube&logoColor=white" />
   </a>
 </p>
 
